@@ -1,0 +1,30 @@
+body{
+font-family: Arial;
+background:#f4f4f4;
+}
+
+.container{
+width:900px;
+margin:auto;
+border:2px solid black;
+}
+
+header{
+background:#ddd;
+padding:20px;
+}
+
+.menu ul li {
+list-style:none;
+display:inline;
+margin-right:15px;
+}
+
+main{
+padding:20px;
+}
+
+footer{
+border-top:2px solid black;
+padding:20px;
+}
